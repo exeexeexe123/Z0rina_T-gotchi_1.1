@@ -1,0 +1,10 @@
+{
+    "satiety": 100,
+    "last_fed_time": 1753094100.2706242,
+    "communication": 100,
+    "last_communicated_time": 1753094747.6518328,
+    "psychological": 49.315717935230914,
+    "mood": "депрессия",
+    "last_update_time": 1753094758.335039,
+    "is_dead": false
+}
